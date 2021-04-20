@@ -1,5 +1,5 @@
-**Name:** ***Michael Zuev***
- 2. **Contact Info:**
+1. **Name:** ***Michael Zuev***
+2. **Contact Info:**
  ***email:*** m.thirteenth@bk.ru
 ***discord:*** M13#7862
 3. **Summary:**
